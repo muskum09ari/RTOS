@@ -1,4 +1,4 @@
-# FreeRTOS Examples for STM32
+# FreeRTOS 
 
 A comprehensive collection of FreeRTOS demonstrations on STM32F4xx microcontrollers. This repository showcases fundamental RTOS concepts including task management, inter-task communication, synchronization mechanisms, and priority handling.
 
